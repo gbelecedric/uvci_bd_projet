@@ -6,13 +6,19 @@
 	* Reinscription
 	* Alumni
 
-## Module Inscription
+## Module Inscription et Reinscription
+
   ### Tables:
   
-    * Nouveaubachelier
+    * Nouveau_Bachelier
     * Etudiant
-    * Anneée_scolaire
-    *
+    * Annee_Universitaire
+    * Dossier_etudiant
+    * Etudiant_Annee_Universitaire
+    * Statut_Professionel
+    * Demande_Inscription
+    * Paiement_Scolarite
+    * Paiement_Scolarite
      
 
 
